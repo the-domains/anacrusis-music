@@ -1,0 +1,28 @@
+name: Anacrusis Music
+favicon: null
+layout_spectrum: 0.2909726691432297
+typography_spectrum: 0.0007289906498044729
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1858662497252226
+  lightness: 0.07473211898468435
+  saturation: 0.4522262290120125
+  rhythmicContrast: 0.523356148507446
+purpose: []
