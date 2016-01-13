@@ -2,6 +2,7 @@ name: Anacrusis Music
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.23604
+title: Music Lessons
 cta:
   domain: null
   bucket: null
