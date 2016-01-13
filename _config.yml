@@ -1,7 +1,7 @@
 name: Anacrusis Music
 favicon: null
-layout_spectrum: 0.2909726691432297
-typography_spectrum: 0.0007289906498044729
+layout_spectrum: 1
+typography_spectrum: 0.23604
 cta:
   domain: null
   bucket: null
